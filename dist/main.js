@@ -1,4 +1,4 @@
-import './style.css'
+import './style.css' assert { type: 'css' };
 import * as THREE from '/build/three.module.js' assert { type: 'css' };
 import { OrbitControls } from '/jsm/controls/OrbitControls' assert { type: 'css' };
 
