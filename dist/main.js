@@ -1,6 +1,6 @@
 import './style.css' assert { type: 'css' };
 import * as THREE from "/build/three.module.js" assert { type: 'css' };
-import { OrbitControls } from '/three/examples/jsm/controls/OrbitControls.js' assert { type: 'css' };
+import { OrbitControls } from '/examples/jsm/controls/OrbitControls.js' assert { type: 'css' };
 
 var objects = [];
 
